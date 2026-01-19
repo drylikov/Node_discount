@@ -1,0 +1,14 @@
+
+{ "name": "discount"
+, "description": "C markdown implementation using discount"
+, "tags": ["markdown", "md", "parser", "native"]
+, "author" : "Denis Rylikov <denis.rylikov@protonmail.com>"
+, "version": "0.2.3"
+, "lib": "./build/Release"
+, "main": "./build/Release/markdown"
+, "scripts": { "preinstall": "node-waf configure build" }
+, "repository" : { "type" : "git"
+                 , "url" : ""
+                 }
+, "bugs" : { "web" : "" }
+}
