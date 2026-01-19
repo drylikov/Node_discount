@@ -1,7 +1,6 @@
-
 # Markdown.js
 
-  node bindings for the C "discount" markdown implementation by David Parsons.
+  Node bindings for the C "discount" markdown implementation by David Parsons.
   
 ## Installation
 
