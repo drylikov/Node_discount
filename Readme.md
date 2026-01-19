@@ -20,4 +20,3 @@
 
 All [Discount flags](http://www.pell.portland.or.us/~orc/Code/discount/#flags) are supported:
 `noLinks`, `noImage`, `noPants`, `noHTML`, `strict`, `tagText`, `noExt`, `cdata`, `noSuperscript`, `noRelaxed`, `noTables`, `noStrikethrough`, `toc`, `md1Compat`, `autolink`, `safelink`, `noHeader`, `tabStop`, `noDivQuote`, `noAlphaList`, `noDlist` and `extraFootnote`.
-
